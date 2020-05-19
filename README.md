@@ -14,7 +14,7 @@ After the installation create two folders in Home path of your computer:
 
 Now copy and paste the MongoDB Community files into mongo folder.
 Go to mongo folder and the to bin, now in terminal run:
-sudo ./mongod --dpath ~/mongo-data
+sudo ./mongod --dbpath ~/mongo-data
 
 ### Third Step
 
